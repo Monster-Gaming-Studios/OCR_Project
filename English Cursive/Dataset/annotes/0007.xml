@@ -2495,4 +2495,40 @@
 			<ymax>2494</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>W</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>2646</ymin>
+			<xmax>186</xmax>
+			<ymax>2796</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>h</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>2621</ymin>
+			<xmax>254</xmax>
+			<ymax>2796</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>y</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>2734</ymin>
+			<xmax>318</xmax>
+			<ymax>2876</ymax>
+		</bndbox>
+	</object>
 </annotation>
