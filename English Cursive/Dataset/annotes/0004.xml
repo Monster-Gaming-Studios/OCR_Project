@@ -3924,18 +3924,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>;</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2161</xmin>
-			<ymin>3454</ymin>
-			<xmax>2219</xmax>
-			<ymax>3545</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>i</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
